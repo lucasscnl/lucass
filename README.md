@@ -33,25 +33,19 @@
 
 ### 📊 Mes Stats GitHub
 <p align="center">
-  https://github-readme-stats.vercel.app/api?username=lucasscnl&show_icons=true&theme=cobalt
+  ![](https://github-readme-stats.vercel.app/api?username=lucasscnl&show_icons=true&theme=cobalt)
 </p>
 
 <p align="center">
-  https://github-readme-stats.vercel.app/api/top-langs/?username=lucasscnl&theme=cobalt
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasscnl&theme=cobalt)
 </p>
 
 <p align="center">
-  https://github-readme-streak-stats.herokuapp.com/?user=lucasscnl&theme=cobalt
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=lucasscnl&theme=cobalt)
 </p>
 
 ---
 
-### 🌱 Contributions
-<p align="center">
-  <img src="https://github.com/lucasscnl/lucasscnl/raw/output/github-contribution-grid-snake.svg">
-</p>
-
----
 
 ### 🏆 Mes Trophées
 <p align="center">
