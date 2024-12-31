@@ -53,4 +53,4 @@
 ---
 
 ### 📬 Contactez-moi
-Pour me contacter, vous pouvez m'écrire à **scannella.lucas@gmail.com** ou sur Discord : **💻luc_ass**
+Pour me contacter, vous pouvez m'écrire à **lucas.dev@gmail.com** ou sur Discord : **💻luc_ass**
