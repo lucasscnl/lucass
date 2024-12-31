@@ -34,22 +34,16 @@
 ### 📊 Mes Stats GitHub
 ![Mes stats](https://github-readme-stats.vercel.app/api?username=lucasscnl&show_icons=true&theme=cobalt)</br>
 
-<p align="center">
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasscnl&theme=cobalt)
-</p>
 
-<p align="center">
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=lucasscnl&theme=cobalt)
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lucasscnl&theme=cobalt)
+
 
 ---
 
 
 ### 🏆 Mes Trophées
-<p align="center">
   ![](https://github-profile-trophy.vercel.app/?username=lucasscnl&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-</p>
-
 ---
 
 ### 📈 Mon Compteur
@@ -60,4 +54,4 @@
 ---
 
 ### 📬 Contactez-moi
-Pour me contacter, vous pouvez m'écrire à **lucasscnl@gmail.com** ou sur Discord : **💻luc_ass**
+Pour me contacter, vous pouvez m'écrire à **scannella.lucas@gmail.com** ou sur Discord : **💻luc_ass**
