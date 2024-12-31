@@ -33,7 +33,7 @@
 
 ### 📊 Mes Stats GitHub
 <p align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=lucasscnl&show_icons=true&theme=cobalt)
+  [Mes Stats](https://github-readme-stats.vercel.app/api?username=lucasscnl&show_icons=true&theme=cobalt)
 </p>
 
 <p align="center">
