@@ -32,11 +32,11 @@
 ---
 
 ### 📊 Mes Stats GitHub
-![Mes stats](https://github-readme-stats.vercel.app/api?username=lucasscnl&show_icons=true&theme=black)</br>
+![Mes stats](https://github-readme-stats.vercel.app/api?username=lucasscnl&show_icons=true&theme=transparent)</br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasscnl&theme=cobalt)</br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasscnl&theme=transparent)</br>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=lucasscnl&theme=cobalt)</br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lucasscnl&theme=transparent)</br>
 
 ---
 
