@@ -18,38 +18,30 @@
 ### 🔧 Frameworks et Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Laravel-red?logo=laravel&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 </p>
 
 ### 🛠️ Outils et Systèmes
 <p align="center">
   <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Kali-blue?style=for-the-badge&logo=kali-linux&logoColor=black">
 </p>
 
-### 🤖 Intelligence Artificielle
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white">
-</p>
 
 ---
 
 ### 📊 Mes Stats GitHub
 <p align="center">
-  ![Les Stats GitHub de lucasscnl](https://github-readme-stats.vercel.app/api?username=lucasscnl&show_icons=true&theme=cobalt)
+  https://github-readme-stats.vercel.app/api?username=lucasscnl&show_icons=true&theme=cobalt
 </p>
 
 <p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasscnl&theme=cobalt)
+  https://github-readme-stats.vercel.app/api/top-langs/?username=lucasscnl&theme=cobalt
 </p>
 
 <p align="center">
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=lucasscnl&theme=cobalt)
+  https://github-readme-streak-stats.herokuapp.com/?user=lucasscnl&theme=cobalt
 </p>
 
 ---
