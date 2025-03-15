@@ -12,20 +12,17 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/JAVA-f89820?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
 
 ### 🔧 Frameworks et Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Laravel-red?logo=laravel&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
 ### 🛠️ Outils et Systèmes
 <p align="center">
   <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
 
@@ -53,4 +50,4 @@
 ---
 
 ### 📬 Contactez-moi
-Pour me contacter, vous pouvez m'écrire à **lucas.dev@gmail.com** ou sur Discord : **💻luc_ass**
+Pour me contacter, vous pouvez m'écrire à **contact@lucascannella.be** ou sur Discord : **💻luc_ass**
